@@ -10,9 +10,21 @@ My academic writing skill set, commitment to writing and research, and passion f
 You can find me on (Fake Link), (Fake Link) or (Fake Link).
 
 ### Education 
-BSc in English and Secondary Education
-Loyola University, MD
 
+Loyola University Maryland – Baltimore MD (2023 – Present)
+Bachelors in English, Minor in Secondary Education
+Expected Graduation: [May, 2027]
+GPA: 3.4
+
+Thomas Edison High School of Technology – Silver Spring, MD (2020 - 2023)
+Graphic Design Certification, Architecture Certification
+OSHA Certified
+
+John F. Kennedy High School – Silver Spring, MD (2019 - 2023)
+High School Diploma
+GPA: 4.1
+
+***
 ### Projects
 
 #### Project 1: HMI Calculator
