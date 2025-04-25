@@ -28,7 +28,7 @@ GPA: 4.1
 ### Projects
 
 #### Project 1: HMI Calculator
- - image
+ [Project Image 1](/Images/Isaiah Joshua - Week 8 Module 10 Assessment 10 Part 2 SS.png)
    
 This project was based on a prompt from my professor. This project aims to help people with moderation and facilitate healthy living. Moderation and healthy living can be difficult to maintain, especially without a set goal or reminder. This code lets someone know if their lifestyle is healthy, and if there is a need for adjustment.
 
@@ -43,7 +43,7 @@ Essentially, my code takes the user’s input, their height and weight, and conv
 
 ***
 #### Project 2: Numbers Divisible by 3 and/or 5
- - image
+[Project Image 2](/Images/Isaiah Joshua - Week 9 Module 11 Assessment 11 Part 2 SS.png)
    
 This project was based on a prompt from my professor. The point of this project is to determine if a number imputed by the user is divisible for 3 or 5. If a person needs to find random numbers that are divisible by 3 or 5 for a code they’re trying to create it’d be easier to determine upfront with my code rather than meticulously dividing each number by hand.
 
@@ -58,7 +58,7 @@ What I created was a code that asks the user for an input, prompting them to ent
 
 ***
 #### Project 3: Test Your Ball Knowledge
- - image
+[Project Image 3](/Images/Isaiah Joshua -  Week 10 Module 12 Assessment 12 SS #1.png)
    
 This project was based on a prompt from my professor. I created this project in order to determine how well a person understands the game of basketball. A lot of people claim they know about the game but this isn’t true, taking my test gives a person a ranking based on their score, determining if they truly have “elite ball knowledge.”
 
