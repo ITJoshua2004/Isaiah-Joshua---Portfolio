@@ -61,7 +61,7 @@ In the end I was able to make a calculator that determines whether or not a numb
 
 My code is a ten question quiz that asks a person questions about the game of basketball. Each possible answer has a value assigned to it and at the end of the quiz, my code tallys the values from each answer given by the user and prints out a “ball knowledge” score that tells the user how much they know about basketball.
 
-[Project Image 3](/Isaiah Joshua - Week 10 Module 12 Assessment 12 SS #1.png)
+[Project Image 3](/Images/Isaiah Joshua - Week 10 Module 12 Assessment 12 SS 1.png)
    
 This project was based on a prompt from my professor. I created this project in order to determine how well a person understands the game of basketball. A lot of people claim they know about the game but this isn’t true, taking my test gives a person a ranking based on their score, determining if they truly have “elite ball knowledge.”
 
